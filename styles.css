@@ -141,13 +141,6 @@ a {
     }
 }
 
-.information-block {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
-
 .random-graphic {
     height: auto;
     width: 20vmax;
